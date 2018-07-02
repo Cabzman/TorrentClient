@@ -1,0 +1,26 @@
+{
+  "name": "torrentclient",
+  "version": "1.0.0",
+  "description": "Cool stuff",
+  "main": "app.js",
+  "dependencies": {
+    "node": "^10.5.0",
+    "ts-node": "^7.0.0",
+    "ts-lint": "^4.5.1",
+    "typescript": "^2.9.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cabzman/TorrentClient.git"
+  },
+  "author": "C and E",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Cabzman/TorrentClient/issues"
+  },
+  "homepage": "https://github.com/Cabzman/TorrentClient#readme"
+}
